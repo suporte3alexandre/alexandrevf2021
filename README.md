@@ -1,6 +1,6 @@
 # Olá meu nome é Alexadre.
-- Trabalho como Analista de suporte. :desktop_computer:
-- Cursando desenvolvimento Web FullStack. :keyboard:
+- Trabalho como Analista de Suporte. :desktop_computer:
+- Curso Desenvolvimento Web FullStack. :keyboard:
 - Estudante de Engenharia de Software. :student:
 - <div align="left">
   <a href="https://github.com/alexandrevf2021">
