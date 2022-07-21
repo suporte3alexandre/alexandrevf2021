@@ -1,7 +1,7 @@
 # Olá meu nome é Alexadre.
-- Trabalho como Analista de suporte.
-- Cursando desenvolvimento Web FullStack.
-- Estudante de Engenharia de Software.
+- Trabalho como Analista de suporte. :desktop_computer:
+- Cursando desenvolvimento Web FullStack. :keyboard:
+- Estudante de Engenharia de Software. :student:
 - <div align="center">
   <a href="https://github.com/alexandrevf2021">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=alexandrevf2021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
