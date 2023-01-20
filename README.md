@@ -1,7 +1,6 @@
-# Olá meu nome é Alexadre.
+# Prazer Alexandre 
 - <strong>Trabalho como Analista de Suporte. </strong> :desktop_computer:
 - <strong>Estudante de Engenharia de Software. </strong> 👨‍🎓
-- <strong>Cursando DesenvolvimentoFullStack.</strong> 👨‍🎓
  <div align="left">
   <a href="https://github.com/alexandrevf2021">
 </div> 
